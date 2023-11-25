@@ -5,14 +5,14 @@ In this section, we will compare the performance of the two models for synthesiz
 ## 1. Statistical Comparison - K.L Divergence
 
 ### 1.1 GAN with Sigmoid Activation vs. GAN with Softmax Activation
-- **File:** `tabular_synthesis.ipynb`, Section 1 and 2
+- **File:** `tickets-gans.ipynb`, Section 1 and 2
 
 #### K.L Divergence Results:
 - Describe the process and results of comparing the synthesized data from GAN with Sigmoid Activation and GAN with Softmax Activation using K.L divergence.
 - Interpret the K.L divergence values and discuss the statistical significance.
 
 ### 1.2 VAE with Sigmoid Activation vs. VAE with Softmax Activation
-- **File:** `tabular_synthesis.ipynb`, Section 3 and 4
+- **File:** `tickets-gans.ipynb`, Section 3 and 4
 
 #### K.L Divergence Results:
 - Describe the process and results of comparing the synthesized data from VAE with Sigmoid Activation and VAE with Softmax Activation using K.L divergence.
@@ -21,14 +21,14 @@ In this section, we will compare the performance of the two models for synthesiz
 ## 2. Similarity Measures - Cosine Similarity
 
 ### 2.1 GAN with Sigmoid Activation vs. GAN with Softmax Activation
-- **File:** `tabular_synthesis.ipynb`, Section 1 and 2
+- **File:** `tickets-gans.ipynb`, Section 1 and 2
 
 #### Cosine Similarity Results:
 - Describe the process and results of comparing the synthesized data from GAN with Sigmoid Activation and GAN with Softmax Activation using cosine similarity.
 - Discuss the implications of the cosine similarity values on the similarity between the datasets.
 
 ### 2.2 VAE with Sigmoid Activation vs. VAE with Softmax Activation
-- **File:** `tabular_synthesis.ipynb`, Section 3 and 4
+- **File:** `tickets-gans.ipynb`, Section 3 and 4
 
 #### Cosine Similarity Results:
 - Describe the process and results of comparing the synthesized data from VAE with Sigmoid Activation and VAE with Softmax Activation using cosine similarity.
